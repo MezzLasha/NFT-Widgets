@@ -10,4 +10,4 @@ current latest version is v1.0
 https://github.com/MezzLasha/NFT-Widgets/releases/download/WAGMI/app-release.apk
 
 note: app is not certified yet with play protect,
-     virustotal says we sage sooo.... https://katb.in/aposupocixi
+     virustotal says we good sooo dyor.... https://katb.in/aposupocixi
